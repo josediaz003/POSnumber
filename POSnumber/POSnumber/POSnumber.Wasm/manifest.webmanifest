@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "POSnumber",
+  "display": "standalone",
+  "name": "POSnumber",
+  "short_name": "POSnumber",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

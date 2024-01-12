@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"POSnumber.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"POSnumber.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
